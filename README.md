@@ -1,9 +1,7 @@
-# Script_for_The-Environmental-Neuroactive-Chemicals-List-of-Prioritized-Substances
-
 Script for *The Environmental Neuroactive Chemicals List of Prioritized Substances for Human Biomonitoring and Neurotoxicity Testing: A Database and High-Throughput Toxicokinetics Approach* published in the Environmental Research journal in 2025.
 
 
-Rager JE, Koval LE, Hickman E, Ring C, Teitelbaum T, Cohen T, Fragola G, Zylka MJ, Engel LS, Lu K, Engel SM. The environmental neuroactive chemicals list of prioritized substances for human biomonitoring and neurotoxicity testing: A database and high-throughput toxicokinetics approach. Environ Res. 2025 Feb 1;266:120537. doi: 10.1016/j.envres.2024.120537. Epub 2024 Dec 4. Erratum in: Environ Res. 2026 Mar 9;298:121988. doi: 10.1016/j.envres.2025.121988. PMID: 39638029; PMCID: PMC11753932.
++ Rager JE, Koval LE, Hickman E, Ring C, Teitelbaum T, Cohen T, Fragola G, Zylka MJ, Engel LS, Lu K, Engel SM. The environmental neuroactive chemicals list of prioritized substances for human biomonitoring and neurotoxicity testing: A database and high-throughput toxicokinetics approach. Environ Res. 2025 Feb 1;266:120537. doi: 10.1016/j.envres.2024.120537. Epub 2024 Dec 4. Erratum in: Environ Res. 2026 Mar 9;298:121988. doi: 10.1016/j.envres.2025.121988. PMID: 39638029; PMCID: PMC11753932.
 
 This study set out to “ENRICH” chemical analyses of human biological samples and ongoing toxicity testing by developing a neuroactive chemicals screening library to more efficiently measure environmental substances likely impacting brain development and function; and thus, develop the **E**nvironmental **N**eu**R**oact**I**ve **CH**emicals (ENRICH) list of prioritized chemicals, with an emphasis on childhood-relevant exposures. Specifically, a suite of in silico database mining approaches were used to integrate metrics informing likelihood of neuroactivity, exposure, detection in biological samples, and experimental feasibility, followed by high-throuhgput toxicokinetic modeling to inform the likelihood of each chemical reaching urine.
 
